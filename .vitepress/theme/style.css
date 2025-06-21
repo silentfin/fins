@@ -143,17 +143,21 @@
   margin-right: 10px;
 }
 
+
+/* this is causing the home page to also have links fix this  */
+
+
 /* Remove underlines from all links by default */
-a {
+/* a {
   text-decoration: none !important;
-}
+} */
 
 /* Show underline only on hover */
-a:hover {
+/* a:hover {
   text-decoration: underline !important;
-}
+} */
 
 /* Optional: Add smooth transition */
-a {
+/* a {
   transition: text-decoration 0.2s ease;
-}
+} */
