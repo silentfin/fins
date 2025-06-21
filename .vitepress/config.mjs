@@ -8,7 +8,7 @@ export default defineConfig({
     logo: 'assets/red.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Guides', link: '/' }
+      { text: 'Guides', link: '/guides' }
     ],
     search: {
       provider: 'local'
