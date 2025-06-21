@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "FINS",
+  title: "SFIN",
   description: "My collection of free stuff on the Internet!",
   themeConfig: {
     logo: 'assets/red.png',
