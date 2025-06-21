@@ -5,24 +5,33 @@ export default defineConfig({
   title: "FINS",
   description: "My collection of free stuff on the Internet!",
   themeConfig: {
+    logo: 'assets/red.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Guides', link: '/' }
     ],
-
+    search: {
+      provider: 'local'
+    },
     sidebar: [
       {
-        text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '⚡ Start', link: '/start' },
+          { text: '🌐 Websites', link: '/websites' },
+          { text: '🖥️ Softwares', link: '/softwares' },
+          { text: '🎥 Videos', link: '/videos' },
+          { text: '📰 Articles', link: '/articles' },
+          { text: '📚 Guides', link: '/guides' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/silentfin' }
+    ],
+    footer: {
+      message: 'Made with ❤ by <a href="https://github.com/silentfin">silentfin</a>',
+      copyright: '© 2025'
+    }
   }
 })
