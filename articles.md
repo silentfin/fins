@@ -44,12 +44,6 @@
 
 [Why Learning to Code is So Damn Hard | Thinkful](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 
-[Wotaku.moe by Duck](https://wotaku.moe/)
-
-[Champagne Piracy Wiki - Champagne.](https://champagne.pages.dev/)
-
-[Welcome • freemediaheckyeah](https://fmhy.pages.dev/)
-
 [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/)
 
 [SauceNAO Reverse Image Search](https://saucenao.com/)
@@ -66,10 +60,6 @@
 
 [When to Use i | Medium](https://medium.com/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb)
 
-[AE-1200WH-1AV | CASIO INDIA](https://www.casio.com/in/watches/casio/product.AE-1200WH-1AV/)
-
-[Linked List Operations: Traverse, Insert and Delete](https://www.programiz.com/dsa/linked-list-operations)
-
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
 [The Hitchhiker’s Guide to Online Anonymity | The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
@@ -78,11 +68,7 @@
 
 [practical-tutorials/project-based-learning: Curated list of project-based tutorials](https://github.com/practical-tutorials/project-based-learning)
 
-[Aditya Vikram Singh](https://people.umass.edu/avsingh/)
-
 [DaFont - Download fonts](https://www.dafont.com/)
-
-[Moe Poi ~](https://moepoi.dev/)
 
 [Before starting - Hello Algo](https://www.hello-algo.com/en/chapter_hello_algo/)
 
