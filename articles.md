@@ -91,3 +91,9 @@
 [Pandoc - index](https://pandoc.org/)
 
 [FUTO Self Managed Guide](https://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software)
+
+[Why Learning to Code is So Damn Hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
+
+[Choosing The Right Programming Language: how not to ruin your career](https://medium.com/@bycdiaz/choosing-the-right-language-a-short-guide-on-how-not-to-ruin-your-career-2b353be1371)
+
+[A Cautionary Tale of Learning to Code. My own.](https://www.freecodecamp.org/news/a-cautionary-tale-of-learning-to-code-my-own-eddb24d9d5a7/)
