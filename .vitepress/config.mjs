@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SFIN",
   description: "My collection of free stuff on the Internet!",
-  head: [['link', { rel: 'icon', href: '/public/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     logo: 'assets/fin.svg',
     // https://vitepress.dev/reference/default-theme-config
