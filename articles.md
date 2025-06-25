@@ -97,3 +97,5 @@
 [Choosing The Right Programming Language: how not to ruin your career](https://medium.com/@bycdiaz/choosing-the-right-language-a-short-guide-on-how-not-to-ruin-your-career-2b353be1371)
 
 [A Cautionary Tale of Learning to Code. My own.](https://www.freecodecamp.org/news/a-cautionary-tale-of-learning-to-code-my-own-eddb24d9d5a7/)
+
+[Why We Don't Browse the Internet Anymore](https://christitus.com/why-we-dont-browse-the-internet-anymore/)
