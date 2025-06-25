@@ -7,7 +7,7 @@ hero:
   text: "My collection of free stuff on the Internet!"
   tagline: I love these so much!
   image:
-    src: assets/red.png
+    src: assets/fin.png
     alt: SFIN-logo
   actions:
     - theme: brand
