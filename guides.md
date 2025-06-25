@@ -13,7 +13,7 @@
 - [ToS;DR](https://tosdr.org/en)  
 
 
-
+<!-- 
 
 ## Latex
 
@@ -65,11 +65,15 @@
 
 [LaTeX Templates - Books](https://latextemplates.com/cat/books)
 
-[LaTeX – Full Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=ydOTMQC7np0)  
+[LaTeX – Full Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=ydOTMQC7np0)   -->
 
 
 
 ## Others
 
 - [Moon Reader Theme](https://rentry.co/moontheme)
-- [GitHub - linsomniac/spotify\_to\_ytmusic: Copy playlists and liked music from Spotify to YTMusic](https://github.com/linsomniac/spotify_to_ytmusic)
+- [Kindle Modding Wiki](https://kindlemodding.org/jailbreaking/WinterBreak/)
+- [Spotify to YTMusic](https://github.com/linsomniac/spotify_to_ytmusic)
+- [Building your personal self hosted server for streaming and ad-blocking](https://lemmy.dbzer0.com/post/5911320)
+- [Enable or Disable the Refreshed New Tab Page Layout in Firefox](https://www.askvg.com/enable-and-test-the-upcoming-new-tab-page-designs-in-firefox-right-now/)
+- [Enable or Disable New UI for New Tab Page Pinned Shortcuts in Firefox](https://www.askvg.com/enable-or-disable-new-ui-for-new-tab-page-pinned-shortcuts-in-firefox/)
