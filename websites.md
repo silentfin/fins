@@ -8,3 +8,5 @@
 - [Wallhaven](https://wallhaven.cc/)  
 - [Virus Total](https://www.virustotal.com/gui/)  
 - [HaveIBeenPwned](https://haveibeenpwned.com/)  
+- [FileInfo](https://fileinfo.com/)
+- [Prompts](https://prompts.chat/)
